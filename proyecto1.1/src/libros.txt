@@ -5,10 +5,8 @@
 234567890,Redes informáticas,Jane Doe,2,01/02/2022,Redes,Programación,Seguridad,50.0
 345678901,Diseño gráfico,Adam Smith,1,10/09/2021,Diseño,Photoshop,Ilustrador,35.0
 9780140449116,Don Juan,Lord Byron,2,23/08/1819,Poesia,Romance,Satira,Erotismo,14.99
-9780140449116,Juan,Lord Byron,2,23/08/1849,Poesia,Romance,Satira,Erotismo,14.99
 9788466334823,El Aleph,Jorge Luis Borges,4,01/01/1949,Fantasia,Relato,Magia,Misterio,17.99
+9780140449116,Don Juan,Miguel de Cervantes,2,23/08/1819,Poesia,Romance,Satira,Erotismo,14.99
 9788466334823,La Gitanilla,Miguel de Cervantes,4,01/01/1949,Fantasia,Relato,Magia,Misterio,17.99
-9788466334823,La Gitanilla,Miguel de Cervantes,4,01/03/1959,Fantasia,Relato,Magia,Misterio,17.99
-9788466334823,La Gitanillas,Miguel de Cervantes,4,23/03/1819,Fantasia,Relato,Magia,Misterio,17.99
+9788466334823,La Gitanilla2,Miguel de Cervantes,4,01/01/1728,Fantasia,Relato,Magia,Misterio,17.99
 9788497934547,El retrato de Dorian Gray,Oscar Wilde,2,01/01/1890,Arte,Belleza,Vanity,Moral,16.99
-
